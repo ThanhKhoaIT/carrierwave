@@ -10,6 +10,7 @@ module CarrierWave
         add_config :root
         add_config :base_path
         add_config :asset_host
+        add_config :user_agent
         add_config :permissions
         add_config :directory_permissions
         add_config :storage_engines
